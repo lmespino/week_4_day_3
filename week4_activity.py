@@ -125,17 +125,17 @@ first_paragraph = "We hold these truths to be self-evident, that all people are 
 print(first_paragraph.replace("people", "citizens").replace(" ", "").replace(",", "😊"))
 
 
-# String Methods Practice #1
+# String Methods Practice #1 (done on line 72)
 #slieds 12 -16
 # Print the following text in uppercase, using the specific string method:
 # "Especially in electronic communications, writing in all caps is equivalent to yelling."
 # sentence = "Especially in electronic communications, writing in all caps is equivalent to yelling."
 
-# String Methods Practice #2
+# String Methods Practice #2 (done on line 99)
 # Join the following list into a string, separating each item with a space. Use the appropriate list/string method, and display the result.
 # word_list = ["Simple","is","better","than","complex."]
 
-# String Methods Practice #3
+# String Methods Practice #3 (done on line 88)
 # Replace in the following sentence:
 # "If the implementation is hard to explain, it might be a bad idea."
 # the following pairs of words:
@@ -144,7 +144,7 @@ print(first_paragraph.replace("people", "citizens").replace(" ", "").replace(","
 # and display the sentence with both words modified.
 
 #################################string properties################################
-
+# (all of this done on mini_challengesWk4.py)
 # String Properties Practice #1
 # Concatenate the text "Repetition" 15 times and display the result on the screen.
 # Luckily, you know that strings are multipliable and you can do this activity in a simple and elegant way.
